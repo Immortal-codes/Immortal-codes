@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rajan__sharmaa" target="blank"><img src="https://img.shields.io/twitter/follow/rajan__sharmaa?logo=twitter&style=for-the-badge" alt="rajan__sharmaa" /></a> </p>
 
-- 🔭 I’m currently working on [Microsoft "Fast" For OS](https://github.com/Immortal-codes/Microsoft-Fast-Open-Source)
 
-- 🌱 I’m currently Exploring **REACT**
+- 🌱 I’m currently Exploring **Data Engineering**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
